@@ -59,4 +59,7 @@ LiquidCrystal_I2C lcd(0x27, 20, 4);
 // create Breakout-example object!
 Adafruit_VS1053_FilePlayer musicPlayer =  Adafruit_VS1053_FilePlayer(BREAKOUT_RESET, BREAKOUT_CS, BREAKOUT_DCS, DREQ, CARDCS);
 
+/*************************************************** This is an example for the VS1053 Codec Breakout with mega, sd card sheld ( old IC chip version) and lcd display
+
+/***************************************************/
 
